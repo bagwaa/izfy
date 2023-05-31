@@ -7,7 +7,7 @@ function App() {
         <Confetti />
         <div className="font-mono text-center">
           <p className="text-9xl font-bold text-green-600">YES</p>
-          <p className="text-white">Took only 9 DAYS!</p>
+          <p className="text-white">9 DAYS!</p>
         </div>
       </div>
     </>
