@@ -13,7 +13,7 @@ function App() {
     <>
       <div className="grid h-screen place-items-center bg-black">
         <div className="font-mono text-center">
-          <p className="font-mono text-9xl font-bold text-red-600">NO</p>
+          <p className="text-9xl font-bold text-red-600">NO</p>
           <p className="text-white">{daysSince} days and counting</p>
         </div>
       </div>
