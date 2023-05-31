@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <div className="grid h-screen place-items-center">
-        <p className="font-mono text-9xl font-bold">NO</p>
+        <p className="font-mono text-9xl font-bold text-red-600">NO</p>
       </div>
     </>
   );
